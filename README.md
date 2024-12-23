@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IAMInTune
-- 👀 I’m interested in cybersecurity, IAM, data analytics, and blending creativity with technology.
+- 👀 I’m interested in cybersecurity, IAM, data analytics, and blending creativity with technology, especially music, video, and photography
 - 🌱 I’m currently taking a break from the corporate world to advance my cybersecurity and information assurance skills as I pursue my degree.
 - 💞️ I’m looking to collaborate on risk management projects, IAM automation, and creative tech initiatives.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/kgreat/)
